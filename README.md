@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/mattlijo/TrampolineAlgorithm.png)](https://travis-ci.org/mattlijo/TrampolineAlgorithm)
+
+
 TRAMPOLINE
 
 Java does not support tail recursion optimisation sometimes scaling a recursive code can blowup the stack. Trampoline pattern helps implement algorithms recursively yet executed in iteratively. 
