@@ -7,6 +7,6 @@ jdk:
 script:
   - pwd
   - ls
-  - cd QuickSortAlgorithm
+  - cd TrampolineDesignPattern
   - chmod +x gradlew
   - ./gradlew build --scan -s
